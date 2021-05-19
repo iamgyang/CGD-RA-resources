@@ -1,6 +1,6 @@
 Hello all,
 
-Tomorrow I will be giving an intro to using Github. 
+Tomorrow I will be giving an intro to using Github.
 No pressure to join--however, if you do join, please download Github beforehand, and create an account. 
 I've also attached some of the notes related to tomorrow's discussion at the bottom of this email. 
 IF you feel super competent in using Github, and would like to teach instead of me (I'm still relatively new), please message me. 
@@ -72,19 +72,6 @@ George
 // now, to get what everyone else just made, type in 
 
 	git pull
-
-
-UHUIUYTRDYUIOJIHUGYTRDEDTFYUJIO
-
-
-
-
-
-
-
-
-
-
 
 
 
