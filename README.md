@@ -25,6 +25,8 @@ How to get R and STATA to work with LATEX: https://www.youtube.com/watch?v=BRakB
 
 Guide for being an Econ RA: https://raguide.github.io/
 
+## Public Speaking / Writing Skills:
+
 ## Econometrics:
 
 **Scott Cunningham _Mixtape_ book**: https://mixtape.scunning.com/
