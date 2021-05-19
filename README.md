@@ -9,8 +9,6 @@ Note, we will NOT be publishing anything confidential here (e.g. DHS datasets th
 
 The code is mostly written in STATA and R. 
 
-Background: Anything related to being an RA, development, etc. (i.e. anything interesting that is not an R, STATA file, or a link to a data source)
-
 This experiment could fail! And that's okay...
 
 # Resources
