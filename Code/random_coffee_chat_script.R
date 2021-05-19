@@ -56,7 +56,10 @@ options(
 
 # get the CGD coffee sheet:
 ss <-
-  "https://docs.google.com/spreadsheets/d/1G9Z9SrkS-ROjc3QFmDCpf4uQdbsFtMzpztNxrGT6YHQ/edit#gid=722638273"
+  # REPLACE THIS WITH YOUR INSTITUTION'S GOOGLE SHEET
+  # it should have a column for the date that people registered, their email, 
+  # and the group size (2-4)
+  "https://docs.google.com/spreadsheets/d/TEST"
 dat <- read_sheet(ss)
 
 # GET MOST RECENT PERIOD ---------------------------------------------
