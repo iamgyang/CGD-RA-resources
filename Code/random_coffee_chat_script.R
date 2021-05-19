@@ -79,9 +79,6 @@ dat <-
 print("If code stopped, there is only 1 person who signed up for coffee chat.")
 waitifnot(nrow(dat) > 1)
 
-# MANUALLY ADJUST CERTAIN PPL IF NOT ENOUGH INDIFFERENT PPL/CLEAN ---------------
-
-# dat[email=="anewbold@cgdev.org",size:=3]
 
 # STORE CHECKING DATASET --------------------------------------------------
 
