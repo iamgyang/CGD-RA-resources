@@ -15,8 +15,7 @@ This experiment could fail! And that's okay...
 
 ## Workflow
 
-How to get R and STATA to work with LATEX:
-https://www.youtube.com/watch?v=BRakB2fxWYc
+How to get R and STATA to work with LATEX: https://www.youtube.com/watch?v=BRakB2fxWYc
 
 ## STATA
 
@@ -24,23 +23,16 @@ https://www.youtube.com/watch?v=BRakB2fxWYc
 
 ## Being an RA:
 
-Guide for being an Econ RA:
-https://raguide.github.io/
+Guide for being an Econ RA: https://raguide.github.io/
 
 ## Econometrics:
 
-**Scott Cunningham _Mixtape_ book**
-
-https://mixtape.scunning.com/
+**Scott Cunningham _Mixtape_ book**: https://mixtape.scunning.com/
 
 
 # Datasets
 
-**OECD Creditor Reporting System Data (CRS)**
-
-Commitments and disbursements of all CRS data
-
-https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1
+**OECD Creditor Reporting System Data (CRS)**: Commitments and disbursements of all CRS data: https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1
 
 
 
