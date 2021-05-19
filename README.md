@@ -5,6 +5,8 @@ It is meant as a way to share code with ourselves, as well as serve as a resourc
 Github is not meant to be a dataset sharing community, since the file storage size limits are a bit lacking. 
 So, we will be posting *links* to useful datasets.
 
+Note, we will NOT be publishing anything confidential here (e.g. DHS datasets themselves, etc.).
+
 The code is mostly written in STATA and R. 
 
 Background: Anything related to being an RA, development, etc. (i.e. anything interesting that is not an R, STATA file, or a link to a data source)
