@@ -31,51 +31,50 @@ George
 *** Github cheat sheet
 	https://education.github.com/git-cheat-sheet-education.pdf
 
-*** Clone repository:
-	// Go to main page of repository:
-	// https://github.com/iamgyang/CGD-Data-Repository
-	// Click on "Code", and then copy the URL:
-	// https://github.com/iamgyang/CGD-Data-Repository.git
-	// Change the current working directory to the location
-	// do this by typing the following where
-	// where you want the cloned directory.
-	// Create a folder in the desktop that is called "TESTING GITHUB"
+*** Create a repository
+	// Go to github.com
+	// Then 'Repositories'
+	// Go through everything, and click the icon for add README
 
-		cd Desktop\TESTING GITHUB
+*** Clone repository:
+	// Go to main page of repository.
+	// Click on "Code", and then copy the URL.
+
+	// Create a folder in the desktop that is called "TESTING GITHUB"
+	// Then, navigate using command line to that folder.
+		cd Desktop/TESTING GITHUB
 
 	// Type git clone, and then paste the URL you copied earlier.
-
+	// e.g.
 		git clone https://github.com/iamgyang/CGD-Data-Repository.git
 
-// Make a new file within the repository:
+// Create a txt file and save it in the repository:
 	
-	newfile_janedoe.do
+	newfile_janedoe.txt
 
-// reset the directory to be the repository folder
+// Reset the directory to be the repository folder
+// this will differ based on what the name of your repository is
 
-	cd CGD-Data-Repository
+	cd CGD-Data-Repository 
 
-// tell it which files you want to add:
+// Now, make some edits on your computer.
+// Tell it which files you want to add:
 
 	git add README.md
 
-// check status (compare your directory to the last time you commited):
+// Check status (compare your directory to the last time you commited):
 	git status
 
-// now, lock in your changes: 
+// Now, lock in your changes: 
 	git commit -m "I changed the README.MD file"
 
-// sync with the online repository for everyone on your team
+// Sync with the online repository for everyone on your team
 
 	git push
 
-// now, to get what everyone else just made, type in 
+// Now, to get what everyone else just made, type in 
 
 	git pull
-
-
-UHUIUYTRDYUIOJIHUGYTRDEDTFYUJIO
-
 
 
 
