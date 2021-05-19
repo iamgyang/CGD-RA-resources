@@ -16,9 +16,7 @@ Background: Anything related to being an RA, development, etc. (i.e. anything in
 
 This experiment could fail! And that's okay...
 
-====================================================================
-# LIST OF RESOURCES
-====================================================================
+# Resources
 
 ## Workflow
 
@@ -34,11 +32,10 @@ https://www.youtube.com/watch?v=BRakB2fxWYc
 Guide for being an Econ RA:
 https://raguide.github.io/
 
-====================================================================
-# LIST OF DATASETS===
-====================================================================
+# Datasets
 
 **OECD Creditor Reporting System Data (CRS)**
+
 Commitments and disbursements of all CRS data
 https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1
 
