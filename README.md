@@ -1,22 +1,17 @@
-# CGD-Data-Repository
-TEST data repository for CGD RA's
+This is a repository for Center for Global Development RAs.
 
-test test test 
+It is meant as a way to share code with ourselves, as well as serve as a resource for the greater development community. 
 
+Github is not really meant to be a dataset sharing community. 
+So, we will be posting *links* to useful datasets, and will (hopefully) be keeping these links up to date.
 
+The code is mostly written in STATA and R. 
 
-votes
-I think that Git on Dropbox is great. I use it all the time. I have multiple computers (two at home and one at work) on which I use Dropbox as a central bare repository. Since I don’t want to host it on a public service, and I don’t have access to a server that I can always SSH to, Dropbox takes care of this by syncing in the background (very doing so quickly).
+There are 3 folders:
+ - Background
+ - Code
+ - Data
 
-Setup is something like this:
+Background: Anything related to being an RA, development, etc. (i.e. anything interesting that is not an R, STATA file, or a link to a data source)
 
-~/project $ git init
-~/project $ git add .
-~/project $ git commit -m "first commit"
-~/project $ cd ~/Dropbox/git
-
-~/Dropbox/git $ git init --bare project.git
-~/Dropbox/git $ cd ~/project
-
-~/project $ git remote add origin ~/Dropbox/git/project.git
-~/project $ git push -u origin master
+This experiment could fail! And that's okay...
