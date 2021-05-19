@@ -3,9 +3,9 @@ This is a repository for Center for Global Development RAs.
 It is meant as a way to share code with ourselves, as well as serve as a resource for the greater development community. 
 
 Github is not meant to be a dataset sharing community, since the file storage size limits are a bit lacking. 
-So, we will be posting *links* to useful datasets.
+So, we will be posting *links* to useful datasets and, if needed, instructions on how to download them.
 
-Note, we will NOT be publishing anything confidential here (e.g. DHS datasets themselves, etc.).
+Note, we will NOT be publishing anything confidential here (e.g. DHS datasets themselves, Household Survey Microdata that requires approval).
 
 The code is mostly written in STATA and R. 
 
