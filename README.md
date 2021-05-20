@@ -21,6 +21,8 @@ How to get R and STATA to work with LATEX: https://www.youtube.com/watch?v=BRakB
 
 ## R
 
+**Access to Ton of Survey Microdata thru Package**: http://asdfree.com/area-health-resource-file-ahrf.html
+
 ## Being an RA:
 
 Guide for being an Econ RA: https://raguide.github.io/
@@ -36,6 +38,7 @@ Guide for being an Econ RA: https://raguide.github.io/
 
 **OECD Creditor Reporting System Data (CRS)**: Commitments and disbursements of all CRS data: https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1
 
+**World Bank Population Prospects**: Population data and projections of population: https://population.un.org/wpp/Download/Standard/CSV/
 
 
 
