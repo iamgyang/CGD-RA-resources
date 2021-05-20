@@ -36,6 +36,8 @@ George
 	// Then 'Repositories'
 	// Go through everything, and click the icon for add README
 
+*** Then fill out this form: https://forms.gle/CGiWXHbeVoTDpbSJ9
+
 *** Clone repository:
 	// Go to main page of repository.
 	// Click on "Code", and then copy the URL.
@@ -76,12 +78,46 @@ George
 
 	git pull
 
+--->> {if time permits} SPLIT INTO ZOOM GROUPS:
 
+// Now, we're going to practice in groups. We're going to split up into groups, and 
+// try cloning each other's github repos
 
+	https://docs.google.com/spreadsheets/d/1aEHQvmvibwcumvaXFYGARF4z6RwZAiaukzd66ei0wXY/edit?usp=sharing
 
+// Create a folder anywhere. Then, navigate using command line to that folder.
 
+// Type git clone, and then paste the URL of your GROUP MEMBER WITHIN THE ZOOM BREAKOUT ROOM:
+// e.g.
+	git clone https://github.com/iamgyang/CGD-Data-Repository.git
 
+// Create a txt file and save it in the repository:
+	
+	newfile_janedoe.txt
 
+// Reset the directory to be the repository folder
+// this will differ based on what the name of your repository is
+
+	cd CGD-Data-Repository 
+
+// Now, make some edits on your computer.
+// Tell it which files you want to add:
+
+	git add README.md
+
+// Check status (compare your directory to the last time you commited):
+	git status
+
+// Now, lock in your changes: 
+	git commit -m "I changed the README.MD file"
+
+// Sync with the online repository for everyone on your team
+
+	git push
+
+// Now, to get what everyone else just made, type in 
+
+	git pull
 
 
 
