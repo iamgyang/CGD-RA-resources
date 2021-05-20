@@ -18,6 +18,14 @@ George
 ////////////////////////////////////////////////////////////////////////
 // Notes for GITHUB Training:
 
+*** First, open up command line:
+	Windows: cmd in search box
+	Mac:
+		Using Launchpad
+		Open Launchpad.
+		Click the Other folder.
+		Click Terminal.
+
 *** If at any moment you need to clean up your command line, type
 	cls
 
@@ -44,15 +52,21 @@ George
 
 	// Create a folder in the desktop that is called "TESTING GITHUB"
 	// Then, navigate using command line to that folder.
-		cd Desktop/TESTING GITHUB
+		cd.. goes up a few folders
+		cd/ goes to the root folder
+	// So, AFTER you've created this folder, navigate to it:
+	// this may be different on your computer, but on mine, it's
+		cd Users\user\Desktop\TESTING GITHUB
+	// OR, just navigate to the folder in windows explorer and type cmd at the top
 
 	// Type git clone, and then paste the URL you copied earlier.
-	// e.g.
+	// e.g. will be different for you, but for me, it's
 		git clone https://github.com/iamgyang/CGD-Data-Repository.git
 
+// EDIT SOME THINGS (e.g. code file, README)
 // Create a txt file and save it in the repository:
-	
-	newfile_janedoe.txt
+	// check status
+		git status
 
 // Reset the directory to be the repository folder
 // this will differ based on what the name of your repository is
@@ -74,6 +88,8 @@ George
 
 	git push
 
+// Get 1 volunteer -- push something to my github repo
+
 // Now, to get what everyone else just made, type in 
 
 	git pull
@@ -82,7 +98,6 @@ George
 
 // Now, we're going to practice in groups. We're going to split up into groups, and 
 // try cloning each other's github repos
-
 	https://docs.google.com/spreadsheets/d/1aEHQvmvibwcumvaXFYGARF4z6RwZAiaukzd66ei0wXY/edit?usp=sharing
 
 // Create a folder anywhere. Then, navigate using command line to that folder.
