@@ -38,7 +38,7 @@ Guide for being an Econ RA: https://raguide.github.io/
 
 **OECD Creditor Reporting System Data (CRS)**: Commitments and disbursements of all CRS data: https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1
 
-**World Bank Population Prospects**: Population data and projections of population: https://population.un.org/wpp/Download/Standard/CSV/
+**UN Population Prospects**: Population data, projections of population w confidence intervals: https://population.un.org/wpp/Download/Standard/CSV/
 
 **World Bank Population _Estimates_**: databank.worldbank.org/source/population-estimates-and-projections
 
