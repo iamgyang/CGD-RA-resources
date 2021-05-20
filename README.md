@@ -40,7 +40,7 @@ Guide for being an Econ RA: https://raguide.github.io/
 
 **World Bank Population Prospects**: Population data and projections of population: https://population.un.org/wpp/Download/Standard/CSV/
 
-
+**World Bank Population _Estimates_**: databank.worldbank.org/source/population-estimates-and-projections
 
 
 
