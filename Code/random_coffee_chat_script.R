@@ -62,38 +62,19 @@ ss <-
   "https://docs.google.com/spreadsheets/d/TEST"
 dat <- read_sheet(ss)
 
-# GET MOST RECENT PERIOD ---------------------------------------------
-dat <- dat[, 1:3]
-names(dat) <- c("time", "email", "size")
-dat <- as.data.table(dat)
-dat[, ltime := shift(time, n = 1L, type = "lag")]
-dat[, difftime := time - ltime]
-dat[, newperiod := difftime > 6 * 10 ^ 5]
-dat[, newperiod := as.numeric(newperiod)]
-dat <- na.omit(dat)
-dat[, newperiod2 := cumsum(newperiod)]
-whichperiod <- max(dat$newperiod2)
-dat <-
-  dat[newperiod2 == whichperiod, .(time, email, size)] %>% as.data.table()
+# GET MOST RECE
 
-print("If code stopped, there is only 1 person who signed up for coffee chat.")
-waitifnot(nrow(dat) > 1)
+# HAHAHAHHAHAHA I DELETED EVERYTHING!!
+# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHI
 
 
-# STORE CHECKING DATASET --------------------------------------------------
 
-check_dat <- dat %>% as.data.table()
-
-# GET RANDOM NUMBERS AND SORT ------------------------
-rand <-
-  randomNumbers(
-    n = nrow(dat),
-    min = 1,
-    max = 1000,
-    col = 1,
-    base = 10,
-    check = TRUE
-  )
+NG!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!
+!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DEL
+ETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTH
+ING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA
+I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED E
+VERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!# HAHAHAHHAHAHA I DELETED EVERYTHING!!
 closeAllConnections()
 
 dat[, rand := rand]
