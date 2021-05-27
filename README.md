@@ -1,3 +1,5 @@
+THESE ARE BOB'S EDITS!
+
 This is a repository for Center for Global Development RAs.
 
 It is meant as a way to share code with ourselves, as well as serve as a resource for the greater development community. 
@@ -18,6 +20,8 @@ This experiment could fail! And that's okay...
 How to get R and STATA to work with LATEX: https://www.youtube.com/watch?v=BRakB2fxWYc
 
 ## STATA
+
+###### THIS IS ANOTHER LEVEL
 
 ## R
 
@@ -40,7 +44,7 @@ Guide for being an Econ RA: https://raguide.github.io/
 
 **UN Population Prospects**: Population data, projections of population w confidence intervals: https://population.un.org/wpp/Download/Standard/CSV/
 
-**World Bank Population _Estimates_**: databank.worldbank.org/source/population-estimates-and-projections
+
 
 
 

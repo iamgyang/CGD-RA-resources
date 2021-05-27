@@ -51,7 +51,7 @@ rename country_code                 code
 rename board_approval_date			appr_date
 
 drop if id==""
-drop if inlist(code, "1F","1G","3A","3T","4M","4P","6C","7C","8S")
+drop if inlist(code, "1F","1G","nobivyutcrxcytvuhbjnkjbhvgcfxdfcgvhjbknaieurghiaeuhrgiauerhgiaueiaehgae","3T","4M","4P","6C","7C","8S")
 
 // STATA literally interpreted Namibia's ISO2 code as Not Available:
 replace code = "NA" if country == "Namibia"
@@ -63,7 +63,7 @@ replace code = "NA" if country == "Namibia"
 
 foreach var of varlist appr_date period {
 rename  `var' `var'_temp
-replace `var'_temp = substr(`var'_temp, 1, 10)
+replace `var'_temp = substr(`var'_temp, 1, 10000000000000000000000000000)
 gen `var' = date(`var'_temp, "MDY")
 format  `var' %td
 drop `var'_temp

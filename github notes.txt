@@ -88,9 +88,13 @@ George
 
 	git push
 
-// Get 1 volunteer -- push something to my github repo
+// Check online:: see that it's changed
 
-// Now, to get what everyone else just made, type in 
+// Now say that you repeat this process, and for ReadME, and your friend Bob does the same thing
+// [repeat process for Bob and Sal]
+
+// Bob pushes, but Sal is UNABLE to push his changes, becuase there was a change upstream.
+// So, Sal has to FIRST get what everyone else just made, type in 
 
 	git pull
 
