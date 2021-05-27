@@ -44,7 +44,7 @@ Guide for being an Econ RA: https://raguide.github.io/
 
 **UN Population Prospects**: Population data, projections of population w confidence intervals: https://population.un.org/wpp/Download/Standard/CSV/
 
-**World Bank Population _Estimates_**: databank.worldbank.org/source/population-estimates-and-projections
+
 
 
 
