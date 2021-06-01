@@ -51,6 +51,3 @@ Guide for being an Econ RA: https://raguide.github.io/
 
 
 
-
-
-
