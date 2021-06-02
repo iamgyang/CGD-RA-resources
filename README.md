@@ -1,5 +1,3 @@
-THESE ARE BOB'S EDITS!
-
 This is a repository for Center for Global Development RAs.
 
 It is meant as a way to share code with ourselves, as well as serve as a resource for the greater development community. 
@@ -44,7 +42,7 @@ Guide for being an Econ RA: https://raguide.github.io/
 
 **World Bank Population Prospects**: Population data and projections of population: https://population.un.org/wpp/Download/Standard/CSV/
 
-
+**IMF World Economic Outlook**: Annual Real GDP, projections of future GDP: https://www.imf.org/en/Publications/WEO/weo-database/
 
 
 
