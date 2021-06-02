@@ -19,8 +19,6 @@ How to get R and STATA to work with LATEX: https://www.youtube.com/watch?v=BRakB
 
 ## STATA
 
-###### THIS IS ANOTHER LEVEL
-
 ## R
 
 **Access to Ton of Survey Microdata thru Package**: http://asdfree.com/area-health-resource-file-ahrf.html
