@@ -31,6 +31,8 @@ How to get R and STATA to work with LATEX: https://www.youtube.com/watch?v=BRakB
 
 Guide for being an Econ RA: https://raguide.github.io/
 
+Guide for Econ PHD (Chakravorty et al.): https://drive.google.com/file/d/1cTb8enoUZxFKscidXYwojK3bXSjb7dxr/view
+
 ## Public Speaking / Writing Skills:
 
 ## Econometrics:
