@@ -46,8 +46,13 @@ Guide for being an Econ RA: https://raguide.github.io/
 
 **IMF World Economic Outlook**: Annual Real GDP, projections of future GDP: https://www.imf.org/en/Publications/WEO/weo-database/
 
+**UIS**: global education stats and estimates (# of kids in school, starting date of primary school, etc.): http://data.uis.unesco.org/
 
+**Human Mortality Database**: weekly death counts for 38 countries: https://www.mortality.org/
 
+**Costa Rica Longevity and Healthy Aging**: nationally representative survey of determinants of aging: http://www.creles.berkeley.edu/
+
+**CENSOC**: US mortality data from the Social Security Administration with 1940 census records: https://censoc.berkeley.edu/
 
 
 
