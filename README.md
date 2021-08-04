@@ -56,5 +56,5 @@ Guide for Econ PHD (Chakravorty et al.): https://drive.google.com/file/d/1cTb8en
 
 **CENSOC**: US mortality data from the Social Security Administration with 1940 census records: https://censoc.berkeley.edu/
 
-
+https://sites.google.com/site/medevecon/devecondata/macro
 
