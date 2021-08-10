@@ -25,5 +25,5 @@ Convert World Bank dataset on cumulative totals to flow numbers [`WB snapshot da
 
 ## Guides:
 While this repository stores mostly code examples, we also have a couple (new) guides:
-[resource guide](https://docs.google.com/document/d/1w1bafVAGdvp10_zIIMALa6AoUgd_BHj7vlo8jyb-myQ/edit?usp=sharing)
-[list of datasets](https://docs.google.com/spreadsheets/d/1SghqkzPuPlV9cnluAq5k0qqTu3Y12OmKHyX_bZMHOf4/edit?usp=sharing)
+ - [resource guide](https://docs.google.com/document/d/1w1bafVAGdvp10_zIIMALa6AoUgd_BHj7vlo8jyb-myQ/edit?usp=sharing)
+ - [list of datasets](https://docs.google.com/spreadsheets/d/1SghqkzPuPlV9cnluAq5k0qqTu3Y12OmKHyX_bZMHOf4/edit?usp=sharing)
