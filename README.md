@@ -20,8 +20,8 @@ Example of using R to scrape the PDFs of scraping pdfs of Trade and Development 
 Convert World Bank dataset on cumulative totals to flow numbers [`WB snapshot dataset convert to flows.do`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/WB%20snapshot%20dataset%20convert%20to%20flows.do)
 
 ## Useful R packages:
-lodown: download survey microdata (http://asdfree.com/area-health-resource-file-ahrf.html)
-dbnomics: download from WB/ECB/BIS/Eurostat/IMF/WTO (https://git.nomics.world/dbnomics/rdbnomics)
+lodown: download survey microdata(http://asdfree.com/area-health-resource-file-ahrf.html)
+dbnomics: download from WB/ECB/BIS/Eurostat/IMF/WTO(https://git.nomics.world/dbnomics/rdbnomics)
 
 ## A more comprehensive editable guide:
 
