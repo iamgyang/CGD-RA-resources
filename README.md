@@ -15,17 +15,18 @@ This experiment could fail! And that's okay...
 
 ## Code:
 
-Code/stata-bootcamp
-STATA bootcamp 2021
+STATA bootcamp 2021 [`Code/stata-bootcamp`](https://github.com/iamgyang/CGD-Data-Repository/tree/main/Code/stata-bootcamp)
 
-random_coffee_chat_script.R
-script for setting up random monthly coffee chats
+Script for setting up random monthly coffee chats [`random_coffee_chat_script.R`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/random_coffee_chat_script.R)
 
-scraping pdfs example.R
+Example of using R to scrape the PDFs of scraping pdfs of Trade and Development Bank [`scraping pdfs example.R`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/scraping%20pdfs%20example.R)
 
-WB snapshot dataset convert to flows.do
-converts World Bank dataset on cumulative totals to flow numbers
+Convert World Bank dataset on cumulative totals to flow numbers [`WB snapshot dataset convert to flows.do`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/WB%20snapshot%20dataset%20convert%20to%20flows.do)
 
-## A more comprehensive guide:
+## Useful R packages:
+lodown: Survey Microdata: http://asdfree.com/area-health-resource-file-ahrf.html
+dbnomics: WB/ECB/BIS/Eurostat/IMF/WTO: https://git.nomics.world/dbnomics/rdbnomics
+
+## A more comprehensive editable guide:
 
 For a more comprehensive guide on resources, see https://docs.google.com/document/d/1w1bafVAGdvp10_zIIMALa6AoUgd_BHj7vlo8jyb-myQ/edit?usp=sharing
