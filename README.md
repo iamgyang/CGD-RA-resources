@@ -13,6 +13,19 @@ This experiment could fail! And that's okay...
 
 # Resources
 
+## Code:
+
+Code/stata-bootcamp
+STATA bootcamp 2021
+
+random_coffee_chat_script.R
+script for setting up random monthly coffee chats
+
+scraping pdfs example.R
+
+WB snapshot dataset convert to flows.do
+converts World Bank dataset on cumulative totals to flow numbers
+
 ## Workflow
 
 How to get R and STATA to work with LATEX: https://www.youtube.com/watch?v=BRakB2fxWYc
