@@ -23,6 +23,7 @@ Convert World Bank dataset on cumulative totals to flow numbers [`WB snapshot da
 * [`lodown`](http://asdfree.com/area-health-resource-file-ahrf.html): download survey microdata
 * [`dbnomics`](https://git.nomics.world/dbnomics/rdbnomics): download from WB/ECB/BIS/Eurostat/IMF/WTO
 
-## A more comprehensive editable guide:
-
-For a more comprehensive guide on resources, see https://docs.google.com/document/d/1w1bafVAGdvp10_zIIMALa6AoUgd_BHj7vlo8jyb-myQ/edit?usp=sharing
+## Guides:
+While this repository stores mostly code examples, we also have a couple (new) guides:
+[resource guide](https://docs.google.com/document/d/1w1bafVAGdvp10_zIIMALa6AoUgd_BHj7vlo8jyb-myQ/edit?usp=sharing)
+[list of datasets](https://docs.google.com/spreadsheets/d/1SghqkzPuPlV9cnluAq5k0qqTu3Y12OmKHyX_bZMHOf4/edit?usp=sharing)
