@@ -1,0 +1,7 @@
+0. re-introduction
+1. importing CSV, DTA, XLS(X) 
+2. for loops
+3. different merges: merge 1:1, merge m:1, merge 1:m // mmerge
+4. cleaning [replace if/by; encode; drop/keep; label variables/values]
+5. egen
+6. reshape

@@ -1,0 +1,23 @@
+0. welcome
+use malaria dataset
+1. basics of regression for dummy variables, continuous variables
+   a. terminology
+   b. scatterplot
+   c. OLS
+   d. reg x y 
+   e. interpreting outputs
+   f. reg x y controls
+2. Play around the dataset
+   a. ask them to show what regressions they did and offer intuitive explanation of results
+use wdi_bl dataset
+3. Practice
+	a. regress WDI outcome of choice on education (no controls)
+	b. briefly explain results (round robin presentation style)
+4. Review - Lending Status
+	a. adding in control variables
+	b. creating dummy variables
+	[c. fixed effects]
+5. Practice - Region
+	a. Reg your WDI outcome of choice on education using fixed effects for the World Bank regions
+[6. Show putexcel/putdocx, for regression table, sum statistics]
+ 

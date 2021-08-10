@@ -1,0 +1,15 @@
+0. ask how many people have done what programming languages before. Introduce everyone.
+1. use display command to print "CGD" "2+2="2+2, show that it abbreviates to di
+2. open stata file and look at it and open do file
+3. locals and globals
+4. rename a variable
+5. gen a new var/ egen
+6. help
+7.drop
+8. list / summarize with if
+9. tab
+10. _N and _n
+11. sort /gsort
+12. by
+13. for
+14. if by itself
