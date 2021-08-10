@@ -26,48 +26,6 @@ scraping pdfs example.R
 WB snapshot dataset convert to flows.do
 converts World Bank dataset on cumulative totals to flow numbers
 
-## Workflow
+## A more comprehensive guide:
 
-How to get R and STATA to work with LATEX: https://www.youtube.com/watch?v=BRakB2fxWYc
-
-## STATA
-
-## R
-
-### Packages:
-
-**```lodown```: Survey Microdata**: http://asdfree.com/area-health-resource-file-ahrf.html
-
-**```dbnomics```: WB/ECB/BIS/Eurostat/IMF/WTO**: https://git.nomics.world/dbnomics/rdbnomics
-
-## Being an RA:
-
-Guide for being an Econ RA: https://raguide.github.io/
-
-Guide for Econ PHD (Chakravorty et al.): https://drive.google.com/file/d/1cTb8enoUZxFKscidXYwojK3bXSjb7dxr/view
-
-## Public Speaking / Writing Skills:
-
-## Econometrics:
-
-**Scott Cunningham _Mixtape_ book**: https://mixtape.scunning.com/
-
-
-# Datasets
-
-**OECD Creditor Reporting System Data (CRS)**: Commitments and disbursements of all CRS data: https://stats.oecd.org/DownloadFiles.aspx?DatasetCode=CRS1
-
-**World Bank Population Prospects**: Population data and projections of population: https://population.un.org/wpp/Download/Standard/CSV/
-
-**IMF World Economic Outlook**: Annual Real GDP, projections of future GDP: https://www.imf.org/en/Publications/WEO/weo-database/
-
-**UIS**: global education stats and estimates (# of kids in school, starting date of primary school, etc.): http://data.uis.unesco.org/
-
-**Human Mortality Database**: weekly death counts for 38 countries: https://www.mortality.org/
-
-**Costa Rica Longevity and Healthy Aging**: nationally representative survey of determinants of aging: http://www.creles.berkeley.edu/
-
-**CENSOC**: US mortality data from the Social Security Administration with 1940 census records: https://censoc.berkeley.edu/
-
-**Macro data links**: https://sites.google.com/site/medevecon/devecondata/macro
-
+For a more comprehensive guide on resources, see https://docs.google.com/document/d/1w1bafVAGdvp10_zIIMALa6AoUgd_BHj7vlo8jyb-myQ/edit?usp=sharing
