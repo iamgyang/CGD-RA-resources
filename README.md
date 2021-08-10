@@ -15,7 +15,7 @@ STATA bootcamp 2021 [`Code/stata-bootcamp`](https://github.com/iamgyang/CGD-Data
 
 Script for setting up random monthly coffee chats [`random_coffee_chat_script.R`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/random_coffee_chat_script.R)
 
-Example of using R to scrape the PDFs of scraping pdfs of Trade and Development Bank [`scraping pdfs example.R`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/scraping%20pdfs%20example.R)
+Example of using R to scrape the PDFs of the Trade and Development Bank [`scraping pdfs example.R`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/scraping%20pdfs%20example.R)
 
 Convert World Bank dataset on cumulative totals to flow numbers [`WB snapshot dataset convert to flows.do`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/WB%20snapshot%20dataset%20convert%20to%20flows.do)
 
