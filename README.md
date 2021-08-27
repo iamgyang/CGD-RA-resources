@@ -22,7 +22,7 @@ Convert World Bank dataset on cumulative totals to flow numbers [`WB snapshot da
 ## Useful R packages:
 * [`lodown`](http://asdfree.com/area-health-resource-file-ahrf.html): download survey microdata
 * [`dbnomics`](https://git.nomics.world/dbnomics/rdbnomics): download from WB/ECB/BIS/Eurostat/IMF/WTO
-* [`imfr`](https://cran.r-project.org/web/packages/imfr/imfr.pdf): download from IMF API. example `here`(https://meshry.com/blog/downloading-data-from-the-imf-api-using-r/).
+* [`imfr`](https://cran.r-project.org/web/packages/imfr/imfr.pdf): download from IMF API. example [here](https://meshry.com/blog/downloading-data-from-the-imf-api-using-r/).
 
 ## Guides:
 While this repository stores mostly code examples, we also have a couple (new) guides:
