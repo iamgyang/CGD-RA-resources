@@ -19,11 +19,6 @@ Example of using R to scrape the PDFs of the Trade and Development Bank [`scrapi
 
 Convert World Bank dataset on cumulative totals to flow numbers [`WB snapshot dataset convert to flows.do`](https://github.com/iamgyang/CGD-Data-Repository/blob/main/Code/WB%20snapshot%20dataset%20convert%20to%20flows.do)
 
-## Useful R packages:
-* [`lodown`](http://asdfree.com/area-health-resource-file-ahrf.html): download survey microdata
-* [`dbnomics`](https://git.nomics.world/dbnomics/rdbnomics): download from WB/ECB/BIS/Eurostat/IMF/WTO
-* [`imfr`](https://cran.r-project.org/web/packages/imfr/imfr.pdf): download from IMF API. example [here](https://meshry.com/blog/downloading-data-from-the-imf-api-using-r/).
-
 ## Guides:
 While this repository stores mostly code examples, we also have a couple (new) guides:
  - [resource guide](https://docs.google.com/document/d/1w1bafVAGdvp10_zIIMALa6AoUgd_BHj7vlo8jyb-myQ/edit?usp=sharing)
